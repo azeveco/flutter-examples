@@ -4,6 +4,12 @@ This repository only aims to list examples of applications developed with **[Flu
 
 **PS: Some projects are fully functional, some only has the UI built.**
 
+This following project is a great source to study about project structure, use of MobX, consume API, routing and more. This one deserves a special and slower look. Here it is:
+
+**Flutter MVC MobX** -- [Repository](https://github.com/RenatoLucasMota/FlutterMVCMobX?fbclid=IwAR0G1X3QlITVQy960wTqsDSiYYnUiMbNfhoY2aplivlFUijmHLz5M0QBF9A) -- [Creator's youtube channel](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
+
+And now, the full list of projects:
+
 Project | Repository | Video
 --- | --- | ---
 **FlipPage-App<span style="color: red;">!!!</span>** | [link](https://github.com/RenatoLucasMota/FlipPage-App) | [link](https://www.facebook.com/renato.mota.750/videos/3420160001333601/)
