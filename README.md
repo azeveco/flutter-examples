@@ -1,14 +1,14 @@
-# **Flutter Examples**
+# 🔥 **Flutter Examples**
 
 This repository only aims to list examples of packages/custom widgets and applications developed with **[Flutter](https://github.com/flutter/flutter)** for the purpose of curiosity and study. For more info about it, check it's website or repository, since it's open source and a great tool for developing beautiful applications for mobile, web and desktop.
 
-**PS: Some projects are fully functional, some only has the UI built.**
+❗ **PS: Some projects are fully functional, some only has the UI built.** ❗
 
 This following project is a great source to study about project structure, use of MobX, consume API, routing and more. This one deserves a special and slower look. Here it is:
 
 **Flutter MVC MobX** -- [Repository](https://github.com/RenatoLucasMota/FlutterMVCMobX?fbclid=IwAR0G1X3QlITVQy960wTqsDSiYYnUiMbNfhoY2aplivlFUijmHLz5M0QBF9A) -- [Creator's youtube channel](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
 
-### And now, the full list of projects built with **Flutter**:
+### **And now, the full list of projects built with **Flutter**:**
 
 Project | Repository | Video
 --- | --- | ---
@@ -26,10 +26,13 @@ Project | Repository | Video
 **ChitChat** | [link](https://github.com/Wandersonjack/chitchat-chat-app?fbclid=IwAR2KqVmDgtqN6z1C0Dltp5YiryRJMnn1UX4V9lt37ai4hkK1GaldOMKRkPo) | [link](https://www.youtube.com/watch?v=h-igXZCCrrc)
 **Another E-Commerce** | [link](https://github.com/TheAlphamerc/flutter_ecommerce_app) | empty
 **Reflectly based login screen** | [link](https://github.com/sagarshende23/Reflectly-Login-Screen) | [link](https://www.youtube.com/watch?v=wbuKFQu6CgA&feature=youtu.be)
+**TheGorgeousLogin** | [link](https://github.com/huextrat/TheGorgeousLogin) | empty
 
-### And the list with Packages/Custom Widgets:
+---
 
-Widget | Description | Link
+### **And the list with Packages/Custom Widgets:**
+
+Package | Description | Link
 --- | --- | ---
 **Flutter Icons** | Customizable Icons for Flutter,Inspired by react-native-vector-icons | [link](https://pub.dev/packages/flutter_icons)
 **Google Fonts** | The google_fonts package for Flutter allows you to easily use any of the 977 fonts from fonts.google.com in your Flutter app. | [link](https://pub.dev/packages/google_fonts)
@@ -76,3 +79,20 @@ Widget | Description | Link
 **Global Configuration** | A flutter package for managing different configurations and making them available everythere inside the app. | [link](https://pub.dev/packages/global_configuration)
 **Shared Preferences** | Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android. | [link](https://pub.dev/packages/shared_preferences)
 **Sensors** | Flutter plugin for accessing the Android and iOS accelerometer and gyroscope sensors. | [link](https://pub.dev/packages/sensors)
+
+## 🤘 **Contribution**
+You are welcome and free to contribute with this index of projects and packages ❤️
+
+**Don't know how? Not a problem!** Just follow the steps bellow:
+- Fork this repository
+- Create a new branch and switch to it
+  - `git checkout -b my_awesome_branch`
+- Add new entries as you wish
+  - Doesn't matter if it's just one or a thousand new entries
+  - Doesn't matter if it's an app or a package
+  - The only thing that matters is to grow as a community ✌
+- Commit and push to your branch
+  - `git commit -m "adds new awesome entries to both projects and packages"`
+  - `git push origin my_awesome_branch`
+- Create a Pull Request and wait for it to be accepted, which most certainly will really soon ✅
+- Once your Pull Request is accepted, you can delete your branch ⛔
