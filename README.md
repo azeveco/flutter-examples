@@ -27,6 +27,14 @@ Project | Repository | Video
 **Another E-Commerce** | [link](https://github.com/TheAlphamerc/flutter_ecommerce_app) | empty
 **Reflectly based login screen** | [link](https://github.com/sagarshende23/Reflectly-Login-Screen) | [link](https://www.youtube.com/watch?v=wbuKFQu6CgA&feature=youtu.be)
 **TheGorgeousLogin** | [link](https://github.com/huextrat/TheGorgeousLogin) | empty
+**Smart Course** | [link](https://github.com/TheAlphamerc/flutter_smart_course) | empty
+**App Review** | [link](https://github.com/fluttercommunity/app_review) | empty
+**Review Page** | [link](https://github.com/supermarcos/flutter-review-page-iteraction) | empty
+**Restaurant App UI KIT** | [link](https://github.com/atornel/RestaurantAppUIKit) | empty
+**Tabs** | [link](https://github.com/michaelroudnitski/Tabs) | empty
+**E-Book App** | [link](https://github.com/JideGuru/FlutterEbookApp) | empty
+**Food Delivery** | [link](https://github.com/Ashwinbicholiya/Food-delivery-app-) | empty
+**TV Randshow** | [link](https://github.com/deandreamatias/tv-randshow) | empty
 
 ---
 
