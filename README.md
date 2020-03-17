@@ -87,6 +87,9 @@ Package | Description | Link
 **Global Configuration** | A flutter package for managing different configurations and making them available everythere inside the app. | [link](https://pub.dev/packages/global_configuration)
 **Shared Preferences** | Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android. | [link](https://pub.dev/packages/shared_preferences)
 **Sensors** | Flutter plugin for accessing the Android and iOS accelerometer and gyroscope sensors. | [link](https://pub.dev/packages/sensors)
+**Smooth Page Indicator** | Customizable animated page indicator with a set of built-in effects. | [link](https://github.com/Milad-Akarie/smooth_page_indicator)
+**Fluid Layout** | Create responsive layouts in flutter for mobile, web and desktop. | [link](https://pub.dev/packages/fluid_layout)
+**Awesome Card** | A flutter package to create a Credit Card widget in your application. | [link](https://github.com/iamvivekkaushik/AwesomeCard)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
