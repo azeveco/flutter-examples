@@ -90,6 +90,7 @@ Package | Description | Link
 **Smooth Page Indicator** | Customizable animated page indicator with a set of built-in effects. | [link](https://github.com/Milad-Akarie/smooth_page_indicator)
 **Fluid Layout** | Create responsive layouts in flutter for mobile, web and desktop. | [link](https://pub.dev/packages/fluid_layout)
 **Awesome Card** | A flutter package to create a Credit Card widget in your application. | [link](https://github.com/iamvivekkaushik/AwesomeCard)
+**Flutter Flare** | Vector design and runtime animation for Flutter. | [link](https://pub.dev/packages/flare_flutter) [link](https://github.com/2d-inc/Flare-Flutter) [link](https://rive.app/)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
