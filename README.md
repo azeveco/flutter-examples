@@ -91,6 +91,7 @@ Package | Description | Link
 **Fluid Layout** | Create responsive layouts in flutter for mobile, web and desktop. | [link](https://pub.dev/packages/fluid_layout)
 **Awesome Card** | A flutter package to create a Credit Card widget in your application. | [link](https://github.com/iamvivekkaushik/AwesomeCard)
 **Flutter Flare** | Vector design and runtime animation for Flutter. | [link](https://pub.dev/packages/flare_flutter) [link](https://github.com/2d-inc/Flare-Flutter) [link](https://rive.app/)
+**Custom Radio Grouped Button** | Custom Flutter widgets that makes Checkbox and Radio Buttons much cleaner and easier. | [link](https://github.com/ketanchoyal/custom_radio_grouped_button)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
