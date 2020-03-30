@@ -92,6 +92,7 @@ Package | Description | Link
 **Awesome Card** | A flutter package to create a Credit Card widget in your application. | [link](https://github.com/iamvivekkaushik/AwesomeCard)
 **Flutter Flare** | Vector design and runtime animation for Flutter. | [link](https://pub.dev/packages/flare_flutter) [link](https://github.com/2d-inc/Flare-Flutter) [link](https://rive.app/)
 **Custom Radio Grouped Button** | Custom Flutter widgets that makes Checkbox and Radio Buttons much cleaner and easier. | [link](https://github.com/ketanchoyal/custom_radio_grouped_button)
+**Animated Float Buttons** | Allows you to create a animated collapsible list of float buttons. | [link](https://github.com/jhontona/animated-floatbuttons)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
