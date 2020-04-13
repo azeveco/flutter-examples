@@ -35,6 +35,7 @@ Project | Repository | Video
 **E-Book App** | [link](https://github.com/JideGuru/FlutterEbookApp) | empty
 **Food Delivery** | [link](https://github.com/Ashwinbicholiya/Food-delivery-app-) | empty
 **TV Randshow** | [link](https://github.com/deandreamatias/tv-randshow) | empty
+**COVID-19** | [link](https://github.com/abuanwar072/Covid-19-Flutter-UI) | [link](https://youtu.be/zx6uMCoW2gQ)
 
 ---
 
