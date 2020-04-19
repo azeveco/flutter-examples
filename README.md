@@ -94,6 +94,7 @@ Package | Description | Link
 **Flutter Flare** | Vector design and runtime animation for Flutter. | [link](https://pub.dev/packages/flare_flutter) [link](https://github.com/2d-inc/Flare-Flutter) [link](https://rive.app/)
 **Custom Radio Grouped Button** | Custom Flutter widgets that makes Checkbox and Radio Buttons much cleaner and easier. | [link](https://github.com/ketanchoyal/custom_radio_grouped_button)
 **Animated Float Buttons** | Allows you to create a animated collapsible list of float buttons. | [link](https://github.com/jhontona/animated-floatbuttons)
+**Get** | A consistent navigation library that lets you navigate between screens, open dialogs/bottomSheets, and display snackbars from anywhere in your code without context. | [link](https://pub.dev/packages/get)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
