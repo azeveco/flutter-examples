@@ -10,32 +10,20 @@ This following project is a great source to study about project structure, use o
 
 ### **And now, the full list of projects built with **Flutter**:**
 
-Project | Repository | Video
---- | --- | ---
-**FlipPage-App** | [link](https://github.com/RenatoLucasMota/FlipPage-App) | [link](https://www.facebook.com/renato.mota.750/videos/3420160001333601/)
-**Book App** | [link](https://github.com/theindianappguy/flutterbookapp) | [link](https://youtu.be/Zz0IKZBnk_Y)
-**Messages** | [link](https://github.com/theindianappguy/messages) | [link](https://www.youtube.com/watch?v=CV7b5d6twtE&feature=youtu.be&fbclid=IwAR2bCaSc5EymV8-Rpqj1eC8PRUl2Q9Hct1bVbHBygy0D5eoFhu022hVTJLw)
-**Doctor Booking** | [link](https://github.com/theindianappguy/doctor_booking_app) | [link 1](https://youtu.be/ilkno_gqNu0) - [link 2](https://www.youtube.com/watch?v=U-P3Qj51X2s&feature=youtu.be&fbclid=IwAR27sS_u9hDpZJcqXleuEjkiW6kFR9DPzyCf4Z3P2bZeel_7B1v5O6XzeE0)
-**Restaurant** | [link](https://github.com/theindianappguy/rest_app) | empty
-**Uvento** | [link](https://github.com/theindianappguy/uvento) | [link](https://www.youtube.com/watch?v=_B1bgqGmzGM&feature=youtu.be&fbclid=IwAR0Q2NqxStagshkQmhm97aInj3GSIlgAs9_TdUC9sBsEqBubrFenUoZxl3s)
-**CreditAccount** | [link](https://github.com/RenatoLucasMota/CreditAccountApp?fbclid=IwAR1afeWN82blg2_J1jruVCgZqX4nNC3jQd7YW6so8HpscJC5oJCeYAxw5sQ) | [link](https://www.facebook.com/renato.mota.750/videos/3407093809306887/)
-**ShoeStore** | [link](https://github.com/RenatoLucasMota/ShoeStore) | [link](https://www.facebook.com/renato.mota.750/videos/3403537689662499/)
-**E-Commerce** | [link](https://github.com/theindianappguy/flutterecomapp) | [link](https://www.youtube.com/watch?v=OQ-6Zo0vbAk&feature=youtu.be&fbclid=IwAR0TbGljf2djLg8TwQbdhfiu3aDFyxyCFj8VSShIGOjDz3ofqhhYU5XzpU0)
-**Flutter MVC MobX** | [link](https://github.com/RenatoLucasMota/FlutterMVCMobX?fbclid=IwAR0G1X3QlITVQy960wTqsDSiYYnUiMbNfhoY2aplivlFUijmHLz5M0QBF9A) | [link](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
-**PokeDex MobX** | [link](https://github.com/RenatoLucasMota/PokeDex_MobX?fbclid=IwAR2T20b2whnaDoLsaoZiYS9YXwKn6clCdPHlw4lhfEnEBLFGo38Ga1WhI7M) | [link](https://www.facebook.com/renato.mota.750/videos/3271876666161936/)
-**ChitChat** | [link](https://github.com/Wandersonjack/chitchat-chat-app?fbclid=IwAR2KqVmDgtqN6z1C0Dltp5YiryRJMnn1UX4V9lt37ai4hkK1GaldOMKRkPo) | [link](https://www.youtube.com/watch?v=h-igXZCCrrc)
-**Another E-Commerce** | [link](https://github.com/TheAlphamerc/flutter_ecommerce_app) | empty
-**Reflectly based login screen** | [link](https://github.com/sagarshende23/Reflectly-Login-Screen) | [link](https://www.youtube.com/watch?v=wbuKFQu6CgA&feature=youtu.be)
-**TheGorgeousLogin** | [link](https://github.com/huextrat/TheGorgeousLogin) | empty
-**Smart Course** | [link](https://github.com/TheAlphamerc/flutter_smart_course) | empty
-**App Review** | [link](https://github.com/fluttercommunity/app_review) | empty
-**Review Page** | [link](https://github.com/supermarcos/flutter-review-page-iteraction) | empty
-**Restaurant App UI KIT** | [link](https://github.com/atornel/RestaurantAppUIKit) | empty
-**Tabs** | [link](https://github.com/michaelroudnitski/Tabs) | empty
-**E-Book App** | [link](https://github.com/JideGuru/FlutterEbookApp) | empty
-**Food Delivery** | [link](https://github.com/Ashwinbicholiya/Food-delivery-app-) | empty
+Project | Repository | Video | Project | Repository | Video
+--- | --- | --- | --- | --- | ---
+**FlipPage-App** | [link](https://github.com/RenatoLucasMota/FlipPage-App) | [link](https://www.facebook.com/renato.mota.750/videos/3420160001333601/) | **Book App** | [link](https://github.com/theindianappguy/flutterbookapp) | [link](https://youtu.be/Zz0IKZBnk_Y)
+**Messages** | [link](https://github.com/theindianappguy/messages) | [link](https://www.youtube.com/watch?v=CV7b5d6twtE&feature=youtu.be&fbclid=IwAR2bCaSc5EymV8-Rpqj1eC8PRUl2Q9Hct1bVbHBygy0D5eoFhu022hVTJLw) | **Doctor Booking** | [link](https://github.com/theindianappguy/doctor_booking_app) | [link 1](https://youtu.be/ilkno_gqNu0) [link 2](https://www.youtube.com/watch?v=U-P3Qj51X2s&feature=youtu.be&fbclid=IwAR27sS_u9hDpZJcqXleuEjkiW6kFR9DPzyCf4Z3P2bZeel_7B1v5O6XzeE0)
+**Restaurant** | [link](https://github.com/theindianappguy/rest_app) | empty | **Uvento** | [link](https://github.com/theindianappguy/uvento) | [link](https://www.youtube.com/watch?v=_B1bgqGmzGM&feature=youtu.be&fbclid=IwAR0Q2NqxStagshkQmhm97aInj3GSIlgAs9_TdUC9sBsEqBubrFenUoZxl3s)
+**CreditAccount** | [link](https://github.com/RenatoLucasMota/CreditAccountApp?fbclid=IwAR1afeWN82blg2_J1jruVCgZqX4nNC3jQd7YW6so8HpscJC5oJCeYAxw5sQ) | [link](https://www.facebook.com/renato.mota.750/videos/3407093809306887/) | **ShoeStore** | [link](https://github.com/RenatoLucasMota/ShoeStore) | [link](https://www.facebook.com/renato.mota.750/videos/3403537689662499/)
+**E-Commerce** | [link](https://github.com/theindianappguy/flutterecomapp) | [link](https://www.youtube.com/watch?v=OQ-6Zo0vbAk&feature=youtu.be&fbclid=IwAR0TbGljf2djLg8TwQbdhfiu3aDFyxyCFj8VSShIGOjDz3ofqhhYU5XzpU0) | **Flutter MVC MobX** | [link](https://github.com/RenatoLucasMota/FlutterMVCMobX?fbclid=IwAR0G1X3QlITVQy960wTqsDSiYYnUiMbNfhoY2aplivlFUijmHLz5M0QBF9A) | [link](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
+**PokeDex MobX** | [link](https://github.com/RenatoLucasMota/PokeDex_MobX?fbclid=IwAR2T20b2whnaDoLsaoZiYS9YXwKn6clCdPHlw4lhfEnEBLFGo38Ga1WhI7M) | [link](https://www.facebook.com/renato.mota.750/videos/3271876666161936/) | **ChitChat** | [link](https://github.com/Wandersonjack/chitchat-chat-app?fbclid=IwAR2KqVmDgtqN6z1C0Dltp5YiryRJMnn1UX4V9lt37ai4hkK1GaldOMKRkPo) | [link](https://www.youtube.com/watch?v=h-igXZCCrrc)
+**Another E-Commerce** | [link](https://github.com/TheAlphamerc/flutter_ecommerce_app) | empty | **Reflectly based login screen** | [link](https://github.com/sagarshende23/Reflectly-Login-Screen) | [link](https://www.youtube.com/watch?v=wbuKFQu6CgA&feature=youtu.be)
+**TheGorgeousLogin** | [link](https://github.com/huextrat/TheGorgeousLogin) | empty | **Smart Course** | [link](https://github.com/TheAlphamerc/flutter_smart_course) | empty
+**App Review** | [link](https://github.com/fluttercommunity/app_review) | empty | **Review Page** | [link](https://github.com/supermarcos/flutter-review-page-iteraction) | empty
+**Restaurant App UI KIT** | [link](https://github.com/atornel/RestaurantAppUIKit) | empty | **Tabs** | [link](https://github.com/michaelroudnitski/Tabs) | empty
+**E-Book App** | [link](https://github.com/JideGuru/FlutterEbookApp) | empty | **Food Delivery** | [link](https://github.com/Ashwinbicholiya/Food-delivery-app-) | empty
 **TV Randshow** | [link](https://github.com/deandreamatias/tv-randshow) | empty
-**COVID-19** | [link](https://github.com/abuanwar072/Covid-19-Flutter-UI) | [link](https://youtu.be/zx6uMCoW2gQ)
 
 ---
 
@@ -93,8 +81,6 @@ Package | Description | Link
 **Awesome Card** | A flutter package to create a Credit Card widget in your application. | [link](https://github.com/iamvivekkaushik/AwesomeCard)
 **Flutter Flare** | Vector design and runtime animation for Flutter. | [link](https://pub.dev/packages/flare_flutter) [link](https://github.com/2d-inc/Flare-Flutter) [link](https://rive.app/)
 **Custom Radio Grouped Button** | Custom Flutter widgets that makes Checkbox and Radio Buttons much cleaner and easier. | [link](https://github.com/ketanchoyal/custom_radio_grouped_button)
-**Animated Float Buttons** | Allows you to create a animated collapsible list of float buttons. | [link](https://github.com/jhontona/animated-floatbuttons)
-**Get** | A consistent navigation library that lets you navigate between screens, open dialogs/bottomSheets, and display snackbars from anywhere in your code without context. | [link](https://pub.dev/packages/get)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
