@@ -24,6 +24,7 @@ Project | Repository | Video | | Project | Repository | Video
 **Restaurant App UI KIT** | [link](https://github.com/atornel/RestaurantAppUIKit) | empty | | **Tabs** | [link](https://github.com/michaelroudnitski/Tabs) | empty
 **E-Book App** | [link](https://github.com/JideGuru/FlutterEbookApp) | empty | | **Food Delivery** | [link](https://github.com/Ashwinbicholiya/Food-delivery-app-) | empty
 **TV Randshow** | [link](https://github.com/deandreamatias/tv-randshow) | empty | | **COVID-19** | [link](https://github.com/abuanwar072/Covid-19-Flutter-UI) | [link](https://youtu.be/zx6uMCoW2gQ)
+**Pack of Flutter Apps** | [link](https://github.com/e200/my-flutter-challenges) | empty | | | | 
 
 ---
 
