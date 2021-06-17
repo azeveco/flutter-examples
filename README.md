@@ -84,6 +84,9 @@ Package | Description | Link
 **Custom Radio Grouped Button** | Custom Flutter widgets that makes Checkbox and Radio Buttons much cleaner and easier. | [link](https://github.com/ketanchoyal/custom_radio_grouped_button)
 **Animated Float Buttons** | Allows you to create a animated collapsible list of float buttons. | [link](https://github.com/jhontona/animated-floatbuttons)
 **Get** | A consistent navigation library that lets you navigate between screens, open dialogs/bottomSheets, and display snackbars from anywhere in your code without context. | [link](https://pub.dev/packages/get)
+**Path** | A comprehensive, cross-platform path manipulation library for Dart. The path package provides common operations for manipulating paths: joining, splitting, normalizing, etc. | [link](https://pub.dev/packages/path)
+**Flutter Toast** | Toast Library for Flutter | [link](https://pub.dev/packages/fluttertoast)
+**URL Launcher** | A Flutter plugin for launching a URL. Supports iOS, Android, web, Windows, macOS, and Linux. | [link](https://pub.dev/packages/url_launcher)
 
 ## 🤘 **Contribution**
 You are welcome and free to contribute with this index of projects and packages ❤️
